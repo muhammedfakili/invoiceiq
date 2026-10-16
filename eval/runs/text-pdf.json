@@ -1,0 +1,497 @@
+{
+ "name": "text-pdf",
+ "mode": "text",
+ "model": "gemini-3.5-flash-lite",
+ "summary": {
+  "docs": 20,
+  "field_accuracy": {
+   "vendor_name": 0.8,
+   "customer_name": 0.8,
+   "invoice_number": 1.0,
+   "invoice_date": 1.0,
+   "due_date": 1.0,
+   "currency": 1.0,
+   "subtotal": 1.0,
+   "tax": 1.0,
+   "total": 1.0,
+   "amount_due": 1.0,
+   "line_items": 0.9
+  },
+  "header_accuracy": 0.96,
+  "docs_all_correct": 14,
+  "wrong_fields": 10,
+  "caught": 2,
+  "silent_errors": [
+   [
+    "inv03-us-pdf",
+    "vendor_name"
+   ],
+   [
+    "inv03-us-pdf",
+    "customer_name"
+   ],
+   [
+    "inv07-uk-pdf",
+    "vendor_name"
+   ],
+   [
+    "inv07-uk-pdf",
+    "customer_name"
+   ],
+   [
+    "inv11-de-pdf",
+    "vendor_name"
+   ],
+   [
+    "inv11-de-pdf",
+    "customer_name"
+   ],
+   [
+    "inv16-fr-pdf",
+    "vendor_name"
+   ],
+   [
+    "inv16-fr-pdf",
+    "customer_name"
+   ]
+  ],
+  "false_alarms": 0,
+  "docs_flagged": 2,
+  "straight_through": 18,
+  "straight_through_correct": 14,
+  "avg_seconds": 7.668555524999965,
+  "avg_input_tokens": 666.15,
+  "avg_output_tokens": 792.5,
+  "errors": []
+ },
+ "docs": [
+  {
+   "id": "inv01-us-pdf",
+   "format": "pdf",
+   "mode": "text",
+   "seconds": 6.918514899999991,
+   "correct": {
+    "vendor_name": true,
+    "customer_name": true,
+    "invoice_number": true,
+    "invoice_date": true,
+    "due_date": true,
+    "currency": true,
+    "subtotal": true,
+    "tax": true,
+    "total": true,
+    "amount_due": true,
+    "line_items": true
+   },
+   "flagged": {},
+   "error": null
+  },
+  {
+   "id": "inv02-us-pdf",
+   "format": "pdf",
+   "mode": "text",
+   "seconds": 6.546613900000011,
+   "correct": {
+    "vendor_name": true,
+    "customer_name": true,
+    "invoice_number": true,
+    "invoice_date": true,
+    "due_date": true,
+    "currency": true,
+    "subtotal": true,
+    "tax": true,
+    "total": true,
+    "amount_due": true,
+    "line_items": true
+   },
+   "flagged": {},
+   "error": null
+  },
+  {
+   "id": "inv03-us-pdf",
+   "format": "pdf",
+   "mode": "text",
+   "seconds": 3.1338925000000017,
+   "correct": {
+    "vendor_name": false,
+    "customer_name": false,
+    "invoice_number": true,
+    "invoice_date": true,
+    "due_date": true,
+    "currency": true,
+    "subtotal": true,
+    "tax": true,
+    "total": true,
+    "amount_due": true,
+    "line_items": true
+   },
+   "flagged": {},
+   "error": null
+  },
+  {
+   "id": "inv04-us-pdf",
+   "format": "pdf",
+   "mode": "text",
+   "seconds": 12.060608299999785,
+   "correct": {
+    "vendor_name": true,
+    "customer_name": true,
+    "invoice_number": true,
+    "invoice_date": true,
+    "due_date": true,
+    "currency": true,
+    "subtotal": true,
+    "tax": true,
+    "total": true,
+    "amount_due": true,
+    "line_items": false
+   },
+   "flagged": {
+    "line_items": [
+     "looks like a shipping/fee charge, not an item: Shipping"
+    ]
+   },
+   "error": null
+  },
+  {
+   "id": "inv05-uk-pdf",
+   "format": "pdf",
+   "mode": "text",
+   "seconds": 3.721387600000071,
+   "correct": {
+    "vendor_name": true,
+    "customer_name": true,
+    "invoice_number": true,
+    "invoice_date": true,
+    "due_date": true,
+    "currency": true,
+    "subtotal": true,
+    "tax": true,
+    "total": true,
+    "amount_due": true,
+    "line_items": true
+   },
+   "flagged": {},
+   "error": null
+  },
+  {
+   "id": "inv06-uk-pdf",
+   "format": "pdf",
+   "mode": "text",
+   "seconds": 6.855235200000152,
+   "correct": {
+    "vendor_name": true,
+    "customer_name": true,
+    "invoice_number": true,
+    "invoice_date": true,
+    "due_date": true,
+    "currency": true,
+    "subtotal": true,
+    "tax": true,
+    "total": true,
+    "amount_due": true,
+    "line_items": true
+   },
+   "flagged": {},
+   "error": null
+  },
+  {
+   "id": "inv07-uk-pdf",
+   "format": "pdf",
+   "mode": "text",
+   "seconds": 5.895838999999796,
+   "correct": {
+    "vendor_name": false,
+    "customer_name": false,
+    "invoice_number": true,
+    "invoice_date": true,
+    "due_date": true,
+    "currency": true,
+    "subtotal": true,
+    "tax": true,
+    "total": true,
+    "amount_due": true,
+    "line_items": true
+   },
+   "flagged": {},
+   "error": null
+  },
+  {
+   "id": "inv08-de-pdf",
+   "format": "pdf",
+   "mode": "text",
+   "seconds": 6.2423146000001,
+   "correct": {
+    "vendor_name": true,
+    "customer_name": true,
+    "invoice_number": true,
+    "invoice_date": true,
+    "due_date": true,
+    "currency": true,
+    "subtotal": true,
+    "tax": true,
+    "total": true,
+    "amount_due": true,
+    "line_items": true
+   },
+   "flagged": {},
+   "error": null
+  },
+  {
+   "id": "inv09-de-pdf",
+   "format": "pdf",
+   "mode": "text",
+   "seconds": 7.693824499999664,
+   "correct": {
+    "vendor_name": true,
+    "customer_name": true,
+    "invoice_number": true,
+    "invoice_date": true,
+    "due_date": true,
+    "currency": true,
+    "subtotal": true,
+    "tax": true,
+    "total": true,
+    "amount_due": true,
+    "line_items": true
+   },
+   "flagged": {},
+   "error": null
+  },
+  {
+   "id": "inv10-de-pdf",
+   "format": "pdf",
+   "mode": "text",
+   "seconds": 10.285301899999922,
+   "correct": {
+    "vendor_name": true,
+    "customer_name": true,
+    "invoice_number": true,
+    "invoice_date": true,
+    "due_date": true,
+    "currency": true,
+    "subtotal": true,
+    "tax": true,
+    "total": true,
+    "amount_due": true,
+    "line_items": false
+   },
+   "flagged": {
+    "line_items": [
+     "looks like a shipping/fee charge, not an item: Versandkosten"
+    ]
+   },
+   "error": null
+  },
+  {
+   "id": "inv11-de-pdf",
+   "format": "pdf",
+   "mode": "text",
+   "seconds": 6.619007199999942,
+   "correct": {
+    "vendor_name": false,
+    "customer_name": false,
+    "invoice_number": true,
+    "invoice_date": true,
+    "due_date": true,
+    "currency": true,
+    "subtotal": true,
+    "tax": true,
+    "total": true,
+    "amount_due": true,
+    "line_items": true
+   },
+   "flagged": {},
+   "error": null
+  },
+  {
+   "id": "inv12-ch-pdf",
+   "format": "pdf",
+   "mode": "text",
+   "seconds": 9.533394099999896,
+   "correct": {
+    "vendor_name": true,
+    "customer_name": true,
+    "invoice_number": true,
+    "invoice_date": true,
+    "due_date": true,
+    "currency": true,
+    "subtotal": true,
+    "tax": true,
+    "total": true,
+    "amount_due": true,
+    "line_items": true
+   },
+   "flagged": {},
+   "error": null
+  },
+  {
+   "id": "inv13-ch-pdf",
+   "format": "pdf",
+   "mode": "text",
+   "seconds": 3.913893299999927,
+   "correct": {
+    "vendor_name": true,
+    "customer_name": true,
+    "invoice_number": true,
+    "invoice_date": true,
+    "due_date": true,
+    "currency": true,
+    "subtotal": true,
+    "tax": true,
+    "total": true,
+    "amount_due": true,
+    "line_items": true
+   },
+   "flagged": {},
+   "error": null
+  },
+  {
+   "id": "inv14-fr-pdf",
+   "format": "pdf",
+   "mode": "text",
+   "seconds": 6.295412899999974,
+   "correct": {
+    "vendor_name": true,
+    "customer_name": true,
+    "invoice_number": true,
+    "invoice_date": true,
+    "due_date": true,
+    "currency": true,
+    "subtotal": true,
+    "tax": true,
+    "total": true,
+    "amount_due": true,
+    "line_items": true
+   },
+   "flagged": {},
+   "error": null
+  },
+  {
+   "id": "inv15-fr-pdf",
+   "format": "pdf",
+   "mode": "text",
+   "seconds": 3.5941060999998626,
+   "correct": {
+    "vendor_name": true,
+    "customer_name": true,
+    "invoice_number": true,
+    "invoice_date": true,
+    "due_date": true,
+    "currency": true,
+    "subtotal": true,
+    "tax": true,
+    "total": true,
+    "amount_due": true,
+    "line_items": true
+   },
+   "flagged": {},
+   "error": null
+  },
+  {
+   "id": "inv16-fr-pdf",
+   "format": "pdf",
+   "mode": "text",
+   "seconds": 5.450089400000252,
+   "correct": {
+    "vendor_name": false,
+    "customer_name": false,
+    "invoice_number": true,
+    "invoice_date": true,
+    "due_date": true,
+    "currency": true,
+    "subtotal": true,
+    "tax": true,
+    "total": true,
+    "amount_due": true,
+    "line_items": true
+   },
+   "flagged": {},
+   "error": null
+  },
+  {
+   "id": "inv17-nl-pdf",
+   "format": "pdf",
+   "mode": "text",
+   "seconds": 24.745759200000066,
+   "correct": {
+    "vendor_name": true,
+    "customer_name": true,
+    "invoice_number": true,
+    "invoice_date": true,
+    "due_date": true,
+    "currency": true,
+    "subtotal": true,
+    "tax": true,
+    "total": true,
+    "amount_due": true,
+    "line_items": true
+   },
+   "flagged": {},
+   "error": null
+  },
+  {
+   "id": "inv18-nl-pdf",
+   "format": "pdf",
+   "mode": "text",
+   "seconds": 5.697496999999657,
+   "correct": {
+    "vendor_name": true,
+    "customer_name": true,
+    "invoice_number": true,
+    "invoice_date": true,
+    "due_date": true,
+    "currency": true,
+    "subtotal": true,
+    "tax": true,
+    "total": true,
+    "amount_due": true,
+    "line_items": true
+   },
+   "flagged": {},
+   "error": null
+  },
+  {
+   "id": "inv19-uk-pdf",
+   "format": "pdf",
+   "mode": "text",
+   "seconds": 10.818041600000015,
+   "correct": {
+    "vendor_name": true,
+    "customer_name": true,
+    "invoice_number": true,
+    "invoice_date": true,
+    "due_date": true,
+    "currency": true,
+    "subtotal": true,
+    "tax": true,
+    "total": true,
+    "amount_due": true,
+    "line_items": true
+   },
+   "flagged": {},
+   "error": null
+  },
+  {
+   "id": "inv20-us-pdf",
+   "format": "pdf",
+   "mode": "text",
+   "seconds": 7.350377300000218,
+   "correct": {
+    "vendor_name": true,
+    "customer_name": true,
+    "invoice_number": true,
+    "invoice_date": true,
+    "due_date": true,
+    "currency": true,
+    "subtotal": true,
+    "tax": true,
+    "total": true,
+    "amount_due": true,
+    "line_items": true
+   },
+   "flagged": {},
+   "error": null
+  }
+ ]
+}

@@ -1,0 +1,2236 @@
+{
+  "inv01-us-pdf": {
+    "file": "inv01-us-pdf.pdf",
+    "format": "pdf",
+    "locale": "us",
+    "layout": "classic",
+    "vendor_name": "Redwood Catering Co.",
+    "customer_name": "Pinewood Dental Group",
+    "invoice_number": "2026-9028",
+    "invoice_date": "2026-02-05",
+    "due_date": null,
+    "currency": "USD",
+    "subtotal": 1113.4,
+    "tax": 91.86,
+    "total": 1205.26,
+    "amount_due": 586.26,
+    "line_items": [
+      {
+        "description": "On-site support visit",
+        "quantity": 2.0,
+        "unit_price": 275.2,
+        "amount": 550.4
+      },
+      {
+        "description": "Office chairs",
+        "quantity": 1.0,
+        "unit_price": 229.0,
+        "amount": 229.0
+      },
+      {
+        "description": "Laptop docking station",
+        "quantity": 3.0,
+        "unit_price": 152.57,
+        "amount": 457.71
+      },
+      {
+        "description": "Discount 10%",
+        "quantity": null,
+        "unit_price": null,
+        "amount": -123.71
+      }
+    ],
+    "traps": [
+      "deposit",
+      "discount",
+      "other numbers",
+      "other dates"
+    ]
+  },
+  "inv02-us-pdf": {
+    "file": "inv02-us-pdf.pdf",
+    "format": "pdf",
+    "locale": "us",
+    "layout": "band",
+    "vendor_name": "Copperline Plumbing & Heating",
+    "customer_name": "Pinewood Dental Group",
+    "invoice_number": "2026-6165",
+    "invoice_date": "2026-06-01",
+    "due_date": "2026-07-01",
+    "currency": "USD",
+    "subtotal": 2895.26,
+    "tax": 238.86,
+    "total": 3134.12,
+    "amount_due": 3134.12,
+    "line_items": [
+      {
+        "description": "Office chairs",
+        "quantity": 1.0,
+        "unit_price": 286.0,
+        "amount": 286.0
+      },
+      {
+        "description": "Office chairs",
+        "quantity": 4.0,
+        "unit_price": 264.41,
+        "amount": 1057.64
+      },
+      {
+        "description": "Network cabling (per metre)",
+        "quantity": 20.0,
+        "unit_price": 3.0,
+        "amount": 60.0
+      },
+      {
+        "description": "Training workshop (per seat)",
+        "quantity": 3.0,
+        "unit_price": 425.54,
+        "amount": 1276.62
+      },
+      {
+        "description": "On-site support visit",
+        "quantity": 1.0,
+        "unit_price": 215.0,
+        "amount": 215.0
+      }
+    ],
+    "traps": [
+      "ambiguous date",
+      "other numbers"
+    ]
+  },
+  "inv03-us-pdf": {
+    "file": "inv03-us-pdf.pdf",
+    "format": "pdf",
+    "locale": "us",
+    "layout": "customer_first",
+    "vendor_name": "Summit Peak Marketing Inc.",
+    "customer_name": "Granite State Logistics",
+    "invoice_number": "INV-6030",
+    "invoice_date": "2026-01-01",
+    "due_date": "2026-01-15",
+    "currency": "USD",
+    "subtotal": 3860.68,
+    "tax": 0,
+    "total": 3860.68,
+    "amount_due": 3860.68,
+    "line_items": [
+      {
+        "description": "Website maintenance",
+        "quantity": 4.0,
+        "unit_price": 226.48,
+        "amount": 905.92
+      },
+      {
+        "description": "Cleaning service (hours)",
+        "quantity": 5.0,
+        "unit_price": 29.0,
+        "amount": 145.0
+      },
+      {
+        "description": "Training workshop (per seat)",
+        "quantity": 10.0,
+        "unit_price": 274.0,
+        "amount": 2740.0
+      },
+      {
+        "description": "Books and manuals",
+        "quantity": 12.0,
+        "unit_price": 41.56,
+        "amount": 498.72
+      },
+      {
+        "description": "Discount 10%",
+        "quantity": null,
+        "unit_price": null,
+        "amount": -428.96
+      }
+    ],
+    "traps": [
+      "ambiguous date",
+      "discount",
+      "customer printed bigger",
+      "other dates"
+    ]
+  },
+  "inv04-us-pdf": {
+    "file": "inv04-us-pdf.pdf",
+    "format": "pdf",
+    "locale": "us",
+    "layout": "multipage",
+    "vendor_name": "Copperline Plumbing & Heating",
+    "customer_name": "Cedar Ridge Accounting LLC",
+    "invoice_number": "2026-9186",
+    "invoice_date": "2026-09-13",
+    "due_date": "2026-09-27",
+    "currency": "USD",
+    "subtotal": 42644.53,
+    "tax": 3518.17,
+    "total": 46162.7,
+    "amount_due": 46162.7,
+    "line_items": [
+      {
+        "description": "Books and manuals",
+        "quantity": 1.0,
+        "unit_price": 47.27,
+        "amount": 47.27
+      },
+      {
+        "description": "Printed brochures (box of 250)",
+        "quantity": 5.0,
+        "unit_price": 69.0,
+        "amount": 345.0
+      },
+      {
+        "description": "Catering: lunch buffet per person",
+        "quantity": 1.0,
+        "unit_price": 34.21,
+        "amount": 34.21
+      },
+      {
+        "description": "Printed brochures (box of 250)",
+        "quantity": 12.0,
+        "unit_price": 120.96,
+        "amount": 1451.52
+      },
+      {
+        "description": "Laptop docking station",
+        "quantity": 4.0,
+        "unit_price": 237.83,
+        "amount": 951.32
+      },
+      {
+        "description": "On-site support visit",
+        "quantity": 2.0,
+        "unit_price": 214.0,
+        "amount": 428.0
+      },
+      {
+        "description": "Office chairs",
+        "quantity": 1.0,
+        "unit_price": 230.0,
+        "amount": 230.0
+      },
+      {
+        "description": "Laptop docking station",
+        "quantity": 5.0,
+        "unit_price": 243.02,
+        "amount": 1215.1
+      },
+      {
+        "description": "Printed brochures (box of 250)",
+        "quantity": 3.0,
+        "unit_price": 64.63,
+        "amount": 193.89
+      },
+      {
+        "description": "Laptop docking station",
+        "quantity": 1.0,
+        "unit_price": 222.47,
+        "amount": 222.47
+      },
+      {
+        "description": "Office chairs",
+        "quantity": 2.0,
+        "unit_price": 159.0,
+        "amount": 318.0
+      },
+      {
+        "description": "Office chairs",
+        "quantity": 2.0,
+        "unit_price": 179.76,
+        "amount": 359.52
+      },
+      {
+        "description": "Website maintenance",
+        "quantity": 3.0,
+        "unit_price": 571.57,
+        "amount": 1714.71
+      },
+      {
+        "description": "Books and manuals",
+        "quantity": 3.0,
+        "unit_price": 49.0,
+        "amount": 147.0
+      },
+      {
+        "description": "Training workshop (per seat)",
+        "quantity": 5.0,
+        "unit_price": 345.14,
+        "amount": 1725.7
+      },
+      {
+        "description": "Laptop docking station",
+        "quantity": 3.0,
+        "unit_price": 151.0,
+        "amount": 453.0
+      },
+      {
+        "description": "Cleaning service (hours)",
+        "quantity": 12.0,
+        "unit_price": 30.0,
+        "amount": 360.0
+      },
+      {
+        "description": "Laptop docking station",
+        "quantity": 1.0,
+        "unit_price": 152.05,
+        "amount": 152.05
+      },
+      {
+        "description": "Network cabling (per metre)",
+        "quantity": 1.0,
+        "unit_price": 4.0,
+        "amount": 4.0
+      },
+      {
+        "description": "Catering: lunch buffet per person",
+        "quantity": 3.0,
+        "unit_price": 27.17,
+        "amount": 81.51
+      },
+      {
+        "description": "Cleaning service (hours)",
+        "quantity": 20.0,
+        "unit_price": 34.45,
+        "amount": 689.0
+      },
+      {
+        "description": "Website maintenance",
+        "quantity": 3.0,
+        "unit_price": 237.73,
+        "amount": 713.19
+      },
+      {
+        "description": "Network cabling (per metre)",
+        "quantity": 8.0,
+        "unit_price": 3.64,
+        "amount": 29.12
+      },
+      {
+        "description": "Consulting services (hours)",
+        "quantity": 1.0,
+        "unit_price": 90.76,
+        "amount": 90.76
+      },
+      {
+        "description": "Laptop docking station",
+        "quantity": 3.0,
+        "unit_price": 146.82,
+        "amount": 440.46
+      },
+      {
+        "description": "Monthly software licence",
+        "quantity": 8.0,
+        "unit_price": 42.0,
+        "amount": 336.0
+      },
+      {
+        "description": "Laptop docking station",
+        "quantity": 10.0,
+        "unit_price": 233.12,
+        "amount": 2331.2
+      },
+      {
+        "description": "Laptop docking station",
+        "quantity": 1.0,
+        "unit_price": 211.3,
+        "amount": 211.3
+      },
+      {
+        "description": "Consulting services (hours)",
+        "quantity": 1.0,
+        "unit_price": 173.0,
+        "amount": 173.0
+      },
+      {
+        "description": "Monthly software licence",
+        "quantity": 8.0,
+        "unit_price": 63.0,
+        "amount": 504.0
+      },
+      {
+        "description": "Website maintenance",
+        "quantity": 1.0,
+        "unit_price": 266.0,
+        "amount": 266.0
+      },
+      {
+        "description": "Website maintenance",
+        "quantity": 4.0,
+        "unit_price": 570.61,
+        "amount": 2282.44
+      },
+      {
+        "description": "Printed brochures (box of 250)",
+        "quantity": 8.0,
+        "unit_price": 115.73,
+        "amount": 925.84
+      },
+      {
+        "description": "Office chairs",
+        "quantity": 10.0,
+        "unit_price": 163.0,
+        "amount": 1630.0
+      },
+      {
+        "description": "Consulting services (hours)",
+        "quantity": 20.0,
+        "unit_price": 155.0,
+        "amount": 3100.0
+      },
+      {
+        "description": "Network cabling (per metre)",
+        "quantity": 1.0,
+        "unit_price": 2.0,
+        "amount": 2.0
+      },
+      {
+        "description": "Office chairs",
+        "quantity": 2.0,
+        "unit_price": 148.53,
+        "amount": 297.06
+      },
+      {
+        "description": "Monthly software licence",
+        "quantity": 1.0,
+        "unit_price": 70.65,
+        "amount": 70.65
+      },
+      {
+        "description": "On-site support visit",
+        "quantity": 8.0,
+        "unit_price": 170.38,
+        "amount": 1363.04
+      },
+      {
+        "description": "On-site support visit",
+        "quantity": 20.0,
+        "unit_price": 251.07,
+        "amount": 5021.4
+      },
+      {
+        "description": "Website maintenance",
+        "quantity": 20.0,
+        "unit_price": 426.0,
+        "amount": 8520.0
+      },
+      {
+        "description": "Printed brochures (box of 250)",
+        "quantity": 3.0,
+        "unit_price": 114.0,
+        "amount": 342.0
+      },
+      {
+        "description": "Printed brochures (box of 250)",
+        "quantity": 8.0,
+        "unit_price": 70.47,
+        "amount": 563.76
+      },
+      {
+        "description": "Catering: lunch buffet per person",
+        "quantity": 5.0,
+        "unit_price": 33.79,
+        "amount": 168.95
+      },
+      {
+        "description": "Consulting services (hours)",
+        "quantity": 10.0,
+        "unit_price": 144.01,
+        "amount": 1440.1
+      },
+      {
+        "description": "Laptop docking station",
+        "quantity": 1.0,
+        "unit_price": 195.27,
+        "amount": 195.27
+      },
+      {
+        "description": "Monthly software licence",
+        "quantity": 5.0,
+        "unit_price": 90.66,
+        "amount": 453.3
+      },
+      {
+        "description": "Network cabling (per metre)",
+        "quantity": 4.0,
+        "unit_price": 2.63,
+        "amount": 10.52
+      }
+    ],
+    "traps": [
+      "shipping",
+      "multi-page",
+      "other numbers"
+    ]
+  },
+  "inv05-uk-pdf": {
+    "file": "inv05-uk-pdf.pdf",
+    "format": "pdf",
+    "locale": "uk",
+    "layout": "classic",
+    "vendor_name": "Kestrel Print Studio Ltd",
+    "customer_name": "Harrow & Finch Solicitors",
+    "invoice_number": "INV262188",
+    "invoice_date": "2026-01-07",
+    "due_date": null,
+    "currency": "GBP",
+    "subtotal": 2887.24,
+    "tax": 564.9,
+    "total": 3452.14,
+    "amount_due": 3452.14,
+    "line_items": [
+      {
+        "description": "Consulting services (hours)",
+        "quantity": 1.0,
+        "unit_price": 117.0,
+        "amount": 117.0
+      },
+      {
+        "description": "Printed brochures (box of 250)",
+        "quantity": 2.0,
+        "unit_price": 119.3,
+        "amount": 238.6
+      },
+      {
+        "description": "Website maintenance",
+        "quantity": 12.0,
+        "unit_price": 204.0,
+        "amount": 2448.0
+      },
+      {
+        "description": "Books and manuals",
+        "quantity": 2.0,
+        "unit_price": 41.82,
+        "amount": 83.64
+      }
+    ],
+    "traps": [
+      "ambiguous date",
+      "two tax rates",
+      "other dates"
+    ]
+  },
+  "inv06-uk-pdf": {
+    "file": "inv06-uk-pdf.pdf",
+    "format": "pdf",
+    "locale": "uk",
+    "layout": "band",
+    "vendor_name": "Thornbury Software Ltd",
+    "customer_name": "Harrow & Finch Solicitors",
+    "invoice_number": "INV264664",
+    "invoice_date": "2026-04-18",
+    "due_date": "2026-05-18",
+    "currency": "GBP",
+    "subtotal": 3840.7,
+    "tax": 768.14,
+    "total": 4608.84,
+    "amount_due": 4608.84,
+    "line_items": [
+      {
+        "description": "Consulting services (hours)",
+        "quantity": 2.0,
+        "unit_price": 155.0,
+        "amount": 310.0
+      },
+      {
+        "description": "Website maintenance",
+        "quantity": 3.0,
+        "unit_price": 306.72,
+        "amount": 920.16
+      },
+      {
+        "description": "Laptop docking station",
+        "quantity": 8.0,
+        "unit_price": 242.1,
+        "amount": 1936.8
+      },
+      {
+        "description": "On-site support visit",
+        "quantity": 3.0,
+        "unit_price": 289.0,
+        "amount": 867.0
+      },
+      {
+        "description": "Printed brochures (box of 250)",
+        "quantity": 3.0,
+        "unit_price": 77.83,
+        "amount": 233.49
+      },
+      {
+        "description": "Discount 10%",
+        "quantity": null,
+        "unit_price": null,
+        "amount": -426.75
+      }
+    ],
+    "traps": [
+      "discount",
+      "other numbers"
+    ]
+  },
+  "inv07-uk-pdf": {
+    "file": "inv07-uk-pdf.pdf",
+    "format": "pdf",
+    "locale": "uk",
+    "layout": "customer_first",
+    "vendor_name": "Kestrel Print Studio Ltd",
+    "customer_name": "Harrow & Finch Solicitors",
+    "invoice_number": "SI-07166",
+    "invoice_date": "2026-07-09",
+    "due_date": "2026-07-23",
+    "currency": "GBP",
+    "subtotal": 5927.97,
+    "tax": 1185.59,
+    "total": 7113.56,
+    "amount_due": 7113.56,
+    "line_items": [
+      {
+        "description": "Website maintenance",
+        "quantity": 20.0,
+        "unit_price": 276.0,
+        "amount": 5520.0
+      },
+      {
+        "description": "Website maintenance",
+        "quantity": 1.0,
+        "unit_price": 407.97,
+        "amount": 407.97
+      }
+    ],
+    "traps": [
+      "customer printed bigger",
+      "other numbers"
+    ]
+  },
+  "inv08-de-pdf": {
+    "file": "inv08-de-pdf.pdf",
+    "format": "pdf",
+    "locale": "de",
+    "layout": "classic",
+    "vendor_name": "Hoffmann Druck & Medien GmbH",
+    "customer_name": "Sonnenhof Hotel GmbH",
+    "invoice_number": "RE-2026-5185",
+    "invoice_date": "2026-07-03",
+    "due_date": "2026-08-17",
+    "currency": "EUR",
+    "subtotal": 6263.38,
+    "tax": 1190.04,
+    "total": 7453.42,
+    "amount_due": 7453.42,
+    "line_items": [
+      {
+        "description": "Wartungsvertrag (Quartal)",
+        "quantity": 4.0,
+        "unit_price": 353.7,
+        "amount": 1414.8
+      },
+      {
+        "description": "Unterhaltsreinigung Büro (Std.)",
+        "quantity": 4.0,
+        "unit_price": 30.94,
+        "amount": 123.76
+      },
+      {
+        "description": "Wartungsvertrag (Quartal)",
+        "quantity": 5.0,
+        "unit_price": 370.0,
+        "amount": 1850.0
+      },
+      {
+        "description": "Druck Flyer A5 (1.000 Stk.)",
+        "quantity": 12.0,
+        "unit_price": 117.85,
+        "amount": 1414.2
+      },
+      {
+        "description": "LED-Hallenleuchte 150 W",
+        "quantity": 1.0,
+        "unit_price": 129.87,
+        "amount": 129.87
+      },
+      {
+        "description": "Wartungsvertrag (Quartal)",
+        "quantity": 5.0,
+        "unit_price": 266.15,
+        "amount": 1330.75
+      }
+    ],
+    "traps": []
+  },
+  "inv09-de-pdf": {
+    "file": "inv09-de-pdf.pdf",
+    "format": "pdf",
+    "locale": "de",
+    "layout": "band",
+    "vendor_name": "Brandt Elektrotechnik GmbH",
+    "customer_name": "Praxis Dr. Albers",
+    "invoice_number": "R26-2284",
+    "invoice_date": "2026-07-11",
+    "due_date": "2026-08-25",
+    "currency": "EUR",
+    "subtotal": 932.56,
+    "tax": 177.19,
+    "total": 1109.75,
+    "amount_due": 1109.75,
+    "line_items": [
+      {
+        "description": "Montage und Anschluss (Std.)",
+        "quantity": 8.0,
+        "unit_price": 71.57,
+        "amount": 572.56
+      },
+      {
+        "description": "Anfahrtspauschale",
+        "quantity": 10.0,
+        "unit_price": 36.0,
+        "amount": 360.0
+      }
+    ],
+    "traps": []
+  },
+  "inv10-de-pdf": {
+    "file": "inv10-de-pdf.pdf",
+    "format": "pdf",
+    "locale": "de",
+    "layout": "multipage",
+    "vendor_name": "Hoffmann Druck & Medien GmbH",
+    "customer_name": "Kessler Logistik AG",
+    "invoice_number": "R26-3645",
+    "invoice_date": "2026-05-28",
+    "due_date": null,
+    "currency": "EUR",
+    "subtotal": 35903.36,
+    "tax": 6329.29,
+    "total": 42232.65,
+    "amount_due": 42232.65,
+    "line_items": [
+      {
+        "description": "Druck Flyer A5 (1.000 Stk.)",
+        "quantity": 4.0,
+        "unit_price": 115.19,
+        "amount": 460.76
+      },
+      {
+        "description": "Druck Flyer A5 (1.000 Stk.)",
+        "quantity": 4.0,
+        "unit_price": 106.87,
+        "amount": 427.48
+      },
+      {
+        "description": "Montage und Anschluss (Std.)",
+        "quantity": 2.0,
+        "unit_price": 70.0,
+        "amount": 140.0
+      },
+      {
+        "description": "LED-Hallenleuchte 150 W",
+        "quantity": 3.0,
+        "unit_price": 114.0,
+        "amount": 342.0
+      },
+      {
+        "description": "Anfahrtspauschale",
+        "quantity": 10.0,
+        "unit_price": 45.0,
+        "amount": 450.0
+      },
+      {
+        "description": "Softwarelizenz (Monat)",
+        "quantity": 8.0,
+        "unit_price": 112.29,
+        "amount": 898.32
+      },
+      {
+        "description": "Beratung (Std.)",
+        "quantity": 20.0,
+        "unit_price": 117.0,
+        "amount": 2340.0
+      },
+      {
+        "description": "Fachbücher",
+        "quantity": 4.0,
+        "unit_price": 58.91,
+        "amount": 235.64
+      },
+      {
+        "description": "Softwarelizenz (Monat)",
+        "quantity": 12.0,
+        "unit_price": 99.55,
+        "amount": 1194.6
+      },
+      {
+        "description": "Wartungsvertrag (Quartal)",
+        "quantity": 3.0,
+        "unit_price": 377.0,
+        "amount": 1131.0
+      },
+      {
+        "description": "Lebensmittel für Bewirtung",
+        "quantity": 1.0,
+        "unit_price": 71.11,
+        "amount": 71.11
+      },
+      {
+        "description": "Softwarelizenz (Monat)",
+        "quantity": 2.0,
+        "unit_price": 107.08,
+        "amount": 214.16
+      },
+      {
+        "description": "Wartungsvertrag (Quartal)",
+        "quantity": 12.0,
+        "unit_price": 248.0,
+        "amount": 2976.0
+      },
+      {
+        "description": "Wartungsvertrag (Quartal)",
+        "quantity": 1.0,
+        "unit_price": 264.0,
+        "amount": 264.0
+      },
+      {
+        "description": "Lebensmittel für Bewirtung",
+        "quantity": 2.0,
+        "unit_price": 44.0,
+        "amount": 88.0
+      },
+      {
+        "description": "Druck Flyer A5 (1.000 Stk.)",
+        "quantity": 10.0,
+        "unit_price": 106.15,
+        "amount": 1061.5
+      },
+      {
+        "description": "Softwarelizenz (Monat)",
+        "quantity": 4.0,
+        "unit_price": 99.91,
+        "amount": 399.64
+      },
+      {
+        "description": "Unterhaltsreinigung Büro (Std.)",
+        "quantity": 1.0,
+        "unit_price": 34.58,
+        "amount": 34.58
+      },
+      {
+        "description": "Beratung (Std.)",
+        "quantity": 5.0,
+        "unit_price": 106.0,
+        "amount": 530.0
+      },
+      {
+        "description": "Beratung (Std.)",
+        "quantity": 1.0,
+        "unit_price": 156.0,
+        "amount": 156.0
+      },
+      {
+        "description": "Beratung (Std.)",
+        "quantity": 20.0,
+        "unit_price": 101.0,
+        "amount": 2020.0
+      },
+      {
+        "description": "Montage und Anschluss (Std.)",
+        "quantity": 20.0,
+        "unit_price": 93.0,
+        "amount": 1860.0
+      },
+      {
+        "description": "Unterhaltsreinigung Büro (Std.)",
+        "quantity": 5.0,
+        "unit_price": 30.35,
+        "amount": 151.75
+      },
+      {
+        "description": "Montage und Anschluss (Std.)",
+        "quantity": 2.0,
+        "unit_price": 94.0,
+        "amount": 188.0
+      },
+      {
+        "description": "Beratung (Std.)",
+        "quantity": 4.0,
+        "unit_price": 130.31,
+        "amount": 521.24
+      },
+      {
+        "description": "Softwarelizenz (Monat)",
+        "quantity": 8.0,
+        "unit_price": 115.0,
+        "amount": 920.0
+      },
+      {
+        "description": "Wartungsvertrag (Quartal)",
+        "quantity": 3.0,
+        "unit_price": 268.53,
+        "amount": 805.59
+      },
+      {
+        "description": "Wartungsvertrag (Quartal)",
+        "quantity": 1.0,
+        "unit_price": 462.94,
+        "amount": 462.94
+      },
+      {
+        "description": "Beratung (Std.)",
+        "quantity": 5.0,
+        "unit_price": 127.29,
+        "amount": 636.45
+      },
+      {
+        "description": "Montage und Anschluss (Std.)",
+        "quantity": 12.0,
+        "unit_price": 84.0,
+        "amount": 1008.0
+      },
+      {
+        "description": "Softwarelizenz (Monat)",
+        "quantity": 10.0,
+        "unit_price": 47.55,
+        "amount": 475.5
+      },
+      {
+        "description": "Lebensmittel für Bewirtung",
+        "quantity": 2.0,
+        "unit_price": 74.84,
+        "amount": 149.68
+      },
+      {
+        "description": "Unterhaltsreinigung Büro (Std.)",
+        "quantity": 20.0,
+        "unit_price": 39.31,
+        "amount": 786.2
+      },
+      {
+        "description": "Lebensmittel für Bewirtung",
+        "quantity": 10.0,
+        "unit_price": 74.85,
+        "amount": 748.5
+      },
+      {
+        "description": "Unterhaltsreinigung Büro (Std.)",
+        "quantity": 5.0,
+        "unit_price": 39.92,
+        "amount": 199.6
+      },
+      {
+        "description": "Montage und Anschluss (Std.)",
+        "quantity": 4.0,
+        "unit_price": 91.0,
+        "amount": 364.0
+      },
+      {
+        "description": "Lebensmittel für Bewirtung",
+        "quantity": 20.0,
+        "unit_price": 89.0,
+        "amount": 1780.0
+      },
+      {
+        "description": "Beratung (Std.)",
+        "quantity": 10.0,
+        "unit_price": 150.0,
+        "amount": 1500.0
+      },
+      {
+        "description": "Druck Flyer A5 (1.000 Stk.)",
+        "quantity": 5.0,
+        "unit_price": 144.0,
+        "amount": 720.0
+      },
+      {
+        "description": "Wartungsvertrag (Quartal)",
+        "quantity": 4.0,
+        "unit_price": 395.62,
+        "amount": 1582.48
+      },
+      {
+        "description": "Druck Flyer A5 (1.000 Stk.)",
+        "quantity": 1.0,
+        "unit_price": 99.0,
+        "amount": 99.0
+      },
+      {
+        "description": "Anfahrtspauschale",
+        "quantity": 3.0,
+        "unit_price": 52.27,
+        "amount": 156.81
+      },
+      {
+        "description": "Lebensmittel für Bewirtung",
+        "quantity": 10.0,
+        "unit_price": 103.0,
+        "amount": 1030.0
+      },
+      {
+        "description": "Druck Flyer A5 (1.000 Stk.)",
+        "quantity": 8.0,
+        "unit_price": 135.0,
+        "amount": 1080.0
+      },
+      {
+        "description": "Wartungsvertrag (Quartal)",
+        "quantity": 5.0,
+        "unit_price": 372.51,
+        "amount": 1862.55
+      },
+      {
+        "description": "Softwarelizenz (Monat)",
+        "quantity": 12.0,
+        "unit_price": 65.79,
+        "amount": 789.48
+      },
+      {
+        "description": "Unterhaltsreinigung Büro (Std.)",
+        "quantity": 4.0,
+        "unit_price": 32.0,
+        "amount": 128.0
+      },
+      {
+        "description": "Druck Flyer A5 (1.000 Stk.)",
+        "quantity": 5.0,
+        "unit_price": 89.56,
+        "amount": 447.8
+      }
+    ],
+    "traps": [
+      "shipping",
+      "two tax rates",
+      "multi-page",
+      "other numbers"
+    ]
+  },
+  "inv11-de-pdf": {
+    "file": "inv11-de-pdf.pdf",
+    "format": "pdf",
+    "locale": "de",
+    "layout": "customer_first",
+    "vendor_name": "Lindqvist Software GmbH",
+    "customer_name": "Kessler Logistik AG",
+    "invoice_number": "RE-2026-1170",
+    "invoice_date": "2026-03-08",
+    "due_date": "2026-04-07",
+    "currency": "EUR",
+    "subtotal": 2385.0,
+    "tax": 436.83,
+    "total": 2821.83,
+    "amount_due": 2821.83,
+    "line_items": [
+      {
+        "description": "Beratung (Std.)",
+        "quantity": 20.0,
+        "unit_price": 110.0,
+        "amount": 2200.0
+      },
+      {
+        "description": "Fachbücher",
+        "quantity": 2.0,
+        "unit_price": 68.0,
+        "amount": 136.0
+      }
+    ],
+    "traps": [
+      "shipping",
+      "two tax rates",
+      "customer printed bigger",
+      "other numbers",
+      "other dates"
+    ]
+  },
+  "inv12-ch-pdf": {
+    "file": "inv12-ch-pdf.pdf",
+    "format": "pdf",
+    "locale": "ch",
+    "layout": "classic",
+    "vendor_name": "Alpenblick Treuhand AG",
+    "customer_name": "Bergmann Immobilien AG",
+    "invoice_number": "2026.2664",
+    "invoice_date": "2026-07-10",
+    "due_date": "2026-08-09",
+    "currency": "CHF",
+    "subtotal": 1037.0,
+    "tax": 84.0,
+    "total": 1121.0,
+    "amount_due": 1121.0,
+    "line_items": [
+      {
+        "description": "Wartungsvertrag (Quartal)",
+        "quantity": 1.0,
+        "unit_price": 505.0,
+        "amount": 505.0
+      },
+      {
+        "description": "Druck Flyer A5 (1.000 Stk.)",
+        "quantity": 4.0,
+        "unit_price": 133.0,
+        "amount": 532.0
+      }
+    ],
+    "traps": [
+      "other dates"
+    ]
+  },
+  "inv13-ch-pdf": {
+    "file": "inv13-ch-pdf.pdf",
+    "format": "pdf",
+    "locale": "ch",
+    "layout": "band",
+    "vendor_name": "Gerber Holzbau GmbH",
+    "customer_name": "Café Rosengarten",
+    "invoice_number": "2026.8299",
+    "invoice_date": "2026-04-09",
+    "due_date": "2026-05-24",
+    "currency": "CHF",
+    "subtotal": 1576.0,
+    "tax": 127.66,
+    "total": 1703.66,
+    "amount_due": 1703.66,
+    "line_items": [
+      {
+        "description": "LED-Hallenleuchte 150 W",
+        "quantity": 4.0,
+        "unit_price": 168.0,
+        "amount": 672.0
+      },
+      {
+        "description": "LED-Hallenleuchte 150 W",
+        "quantity": 4.0,
+        "unit_price": 151.65,
+        "amount": 606.6
+      },
+      {
+        "description": "Unterhaltsreinigung Büro (Std.)",
+        "quantity": 10.0,
+        "unit_price": 29.74,
+        "amount": 297.4
+      }
+    ],
+    "traps": [
+      "other numbers"
+    ]
+  },
+  "inv14-fr-pdf": {
+    "file": "inv14-fr-pdf.pdf",
+    "format": "pdf",
+    "locale": "fr",
+    "layout": "classic",
+    "vendor_name": "Atelier Moreau SARL",
+    "customer_name": "Cabinet Lefèvre Avocats",
+    "invoice_number": "FA-2026-8531",
+    "invoice_date": "2026-01-21",
+    "due_date": "2026-02-20",
+    "currency": "EUR",
+    "subtotal": 1893.29,
+    "tax": 378.66,
+    "total": 2271.95,
+    "amount_due": 2271.95,
+    "line_items": [
+      {
+        "description": "Prestation de conseil (heure)",
+        "quantity": 2.0,
+        "unit_price": 112.94,
+        "amount": 225.88
+      },
+      {
+        "description": "Installation poste de travail",
+        "quantity": 2.0,
+        "unit_price": 180.0,
+        "amount": 360.0
+      },
+      {
+        "description": "Déplacement forfaitaire",
+        "quantity": 1.0,
+        "unit_price": 64.0,
+        "amount": 64.0
+      },
+      {
+        "description": "Maintenance informatique (mois)",
+        "quantity": 1.0,
+        "unit_price": 274.0,
+        "amount": 274.0
+      },
+      {
+        "description": "Déplacement forfaitaire",
+        "quantity": 4.0,
+        "unit_price": 73.0,
+        "amount": 292.0
+      },
+      {
+        "description": "Prestation de conseil (heure)",
+        "quantity": 10.0,
+        "unit_price": 86.0,
+        "amount": 860.0
+      },
+      {
+        "description": "Remise 10%",
+        "quantity": null,
+        "unit_price": null,
+        "amount": -207.59
+      }
+    ],
+    "traps": [
+      "discount",
+      "shipping"
+    ]
+  },
+  "inv15-fr-pdf": {
+    "file": "inv15-fr-pdf.pdf",
+    "format": "pdf",
+    "locale": "fr",
+    "layout": "band",
+    "vendor_name": "Dubois Informatique",
+    "customer_name": "Hôtel des Arts",
+    "invoice_number": "FA-2026-2336",
+    "invoice_date": "2026-08-11",
+    "due_date": null,
+    "currency": "EUR",
+    "subtotal": 7721.6,
+    "tax": 1480.11,
+    "total": 9201.71,
+    "amount_due": 9201.71,
+    "line_items": [
+      {
+        "description": "Repas traiteur (par personne)",
+        "quantity": 2.0,
+        "unit_price": 30.0,
+        "amount": 60.0
+      },
+      {
+        "description": "Livres et documentation",
+        "quantity": 1.0,
+        "unit_price": 22.86,
+        "amount": 22.86
+      },
+      {
+        "description": "Location de matériel son",
+        "quantity": 10.0,
+        "unit_price": 386.77,
+        "amount": 3867.7
+      },
+      {
+        "description": "Décoration florale",
+        "quantity": 10.0,
+        "unit_price": 209.0,
+        "amount": 2090.0
+      },
+      {
+        "description": "Installation poste de travail",
+        "quantity": 8.0,
+        "unit_price": 165.13,
+        "amount": 1321.04
+      },
+      {
+        "description": "Repas traiteur (par personne)",
+        "quantity": 10.0,
+        "unit_price": 36.0,
+        "amount": 360.0
+      }
+    ],
+    "traps": [
+      "ambiguous date",
+      "two tax rates",
+      "other numbers"
+    ]
+  },
+  "inv16-fr-pdf": {
+    "file": "inv16-fr-pdf.pdf",
+    "format": "pdf",
+    "locale": "fr",
+    "layout": "customer_first",
+    "vendor_name": "Dubois Informatique",
+    "customer_name": "Boulangerie Petit",
+    "invoice_number": "F2608215",
+    "invoice_date": "2026-08-06",
+    "due_date": null,
+    "currency": "EUR",
+    "subtotal": 1538.42,
+    "tax": 84.61,
+    "total": 1623.03,
+    "amount_due": 854.03,
+    "line_items": [
+      {
+        "description": "Livres et documentation",
+        "quantity": 10.0,
+        "unit_price": 47.65,
+        "amount": 476.5
+      },
+      {
+        "description": "Repas traiteur (par personne)",
+        "quantity": 20.0,
+        "unit_price": 31.96,
+        "amount": 639.2
+      },
+      {
+        "description": "Livres et documentation",
+        "quantity": 1.0,
+        "unit_price": 26.0,
+        "amount": 26.0
+      },
+      {
+        "description": "Livres et documentation",
+        "quantity": 8.0,
+        "unit_price": 49.59,
+        "amount": 396.72
+      }
+    ],
+    "traps": [
+      "ambiguous date",
+      "deposit",
+      "customer printed bigger",
+      "other numbers",
+      "other dates"
+    ]
+  },
+  "inv17-nl-pdf": {
+    "file": "inv17-nl-pdf.pdf",
+    "format": "pdf",
+    "locale": "nl",
+    "layout": "classic",
+    "vendor_name": "Van Dijk Installatietechniek B.V.",
+    "customer_name": "Studio Jansen",
+    "invoice_number": "202602825",
+    "invoice_date": "2026-05-12",
+    "due_date": "2026-05-26",
+    "currency": "EUR",
+    "subtotal": 4171.64,
+    "tax": 839.76,
+    "total": 5011.4,
+    "amount_due": 3760.4,
+    "line_items": [
+      {
+        "description": "Onderhoudscontract (jaar)",
+        "quantity": 1.0,
+        "unit_price": 640.71,
+        "amount": 640.71
+      },
+      {
+        "description": "Voorrijkosten",
+        "quantity": 8.0,
+        "unit_price": 54.08,
+        "amount": 432.64
+      },
+      {
+        "description": "Boeken",
+        "quantity": 12.0,
+        "unit_price": 21.0,
+        "amount": 252.0
+      },
+      {
+        "description": "Onderhoudscontract (jaar)",
+        "quantity": 4.0,
+        "unit_price": 698.97,
+        "amount": 2795.88
+      },
+      {
+        "description": "Boeken",
+        "quantity": 1.0,
+        "unit_price": 50.41,
+        "amount": 50.41
+      }
+    ],
+    "traps": [
+      "deposit",
+      "two tax rates",
+      "other numbers",
+      "other dates"
+    ]
+  },
+  "inv18-nl-pdf": {
+    "file": "inv18-nl-pdf.pdf",
+    "format": "pdf",
+    "locale": "nl",
+    "layout": "band",
+    "vendor_name": "Bakker Vertaalbureau",
+    "customer_name": "Studio Jansen",
+    "invoice_number": "202601847",
+    "invoice_date": "2026-07-04",
+    "due_date": null,
+    "currency": "EUR",
+    "subtotal": 905.96,
+    "tax": 91.05,
+    "total": 997.01,
+    "amount_due": 997.01,
+    "line_items": [
+      {
+        "description": "Voorrijkosten",
+        "quantity": 2.0,
+        "unit_price": 39.64,
+        "amount": 79.28
+      },
+      {
+        "description": "Boeken",
+        "quantity": 4.0,
+        "unit_price": 46.67,
+        "amount": 186.68
+      },
+      {
+        "description": "Boeken",
+        "quantity": 4.0,
+        "unit_price": 47.0,
+        "amount": 188.0
+      },
+      {
+        "description": "Boeken",
+        "quantity": 5.0,
+        "unit_price": 60.0,
+        "amount": 300.0
+      },
+      {
+        "description": "Boeken",
+        "quantity": 4.0,
+        "unit_price": 38.0,
+        "amount": 152.0
+      }
+    ],
+    "traps": [
+      "two tax rates",
+      "other numbers",
+      "other dates"
+    ]
+  },
+  "inv19-uk-pdf": {
+    "file": "inv19-uk-pdf.pdf",
+    "format": "pdf",
+    "locale": "uk",
+    "layout": "multipage",
+    "vendor_name": "Kestrel Print Studio Ltd",
+    "customer_name": "Harrow & Finch Solicitors",
+    "invoice_number": "INV267498",
+    "invoice_date": "2026-05-20",
+    "due_date": "2026-06-03",
+    "currency": "GBP",
+    "subtotal": 38754.48,
+    "tax": 7627.39,
+    "total": 46381.87,
+    "amount_due": 33463.87,
+    "line_items": [
+      {
+        "description": "Network cabling (per metre)",
+        "quantity": 3.0,
+        "unit_price": 4.55,
+        "amount": 13.65
+      },
+      {
+        "description": "Training workshop (per seat)",
+        "quantity": 2.0,
+        "unit_price": 390.78,
+        "amount": 781.56
+      },
+      {
+        "description": "Training workshop (per seat)",
+        "quantity": 1.0,
+        "unit_price": 314.0,
+        "amount": 314.0
+      },
+      {
+        "description": "Cleaning service (hours)",
+        "quantity": 5.0,
+        "unit_price": 40.0,
+        "amount": 200.0
+      },
+      {
+        "description": "Printed brochures (box of 250)",
+        "quantity": 5.0,
+        "unit_price": 120.0,
+        "amount": 600.0
+      },
+      {
+        "description": "Monthly software licence",
+        "quantity": 12.0,
+        "unit_price": 90.0,
+        "amount": 1080.0
+      },
+      {
+        "description": "Office chairs",
+        "quantity": 4.0,
+        "unit_price": 265.0,
+        "amount": 1060.0
+      },
+      {
+        "description": "Catering: lunch buffet per person",
+        "quantity": 4.0,
+        "unit_price": 31.0,
+        "amount": 124.0
+      },
+      {
+        "description": "Laptop docking station",
+        "quantity": 10.0,
+        "unit_price": 255.0,
+        "amount": 2550.0
+      },
+      {
+        "description": "On-site support visit",
+        "quantity": 8.0,
+        "unit_price": 314.44,
+        "amount": 2515.52
+      },
+      {
+        "description": "Network cabling (per metre)",
+        "quantity": 1.0,
+        "unit_price": 5.0,
+        "amount": 5.0
+      },
+      {
+        "description": "Office chairs",
+        "quantity": 1.0,
+        "unit_price": 208.22,
+        "amount": 208.22
+      },
+      {
+        "description": "Training workshop (per seat)",
+        "quantity": 4.0,
+        "unit_price": 380.29,
+        "amount": 1521.16
+      },
+      {
+        "description": "Network cabling (per metre)",
+        "quantity": 1.0,
+        "unit_price": 5.0,
+        "amount": 5.0
+      },
+      {
+        "description": "Cleaning service (hours)",
+        "quantity": 12.0,
+        "unit_price": 31.56,
+        "amount": 378.72
+      },
+      {
+        "description": "Training workshop (per seat)",
+        "quantity": 1.0,
+        "unit_price": 392.0,
+        "amount": 392.0
+      },
+      {
+        "description": "Books and manuals",
+        "quantity": 4.0,
+        "unit_price": 46.0,
+        "amount": 184.0
+      },
+      {
+        "description": "Consulting services (hours)",
+        "quantity": 1.0,
+        "unit_price": 114.0,
+        "amount": 114.0
+      },
+      {
+        "description": "Laptop docking station",
+        "quantity": 3.0,
+        "unit_price": 244.0,
+        "amount": 732.0
+      },
+      {
+        "description": "Catering: lunch buffet per person",
+        "quantity": 5.0,
+        "unit_price": 29.4,
+        "amount": 147.0
+      },
+      {
+        "description": "Office chairs",
+        "quantity": 8.0,
+        "unit_price": 228.1,
+        "amount": 1824.8
+      },
+      {
+        "description": "Website maintenance",
+        "quantity": 1.0,
+        "unit_price": 533.48,
+        "amount": 533.48
+      },
+      {
+        "description": "Printed brochures (box of 250)",
+        "quantity": 1.0,
+        "unit_price": 115.0,
+        "amount": 115.0
+      },
+      {
+        "description": "Catering: lunch buffet per person",
+        "quantity": 3.0,
+        "unit_price": 33.0,
+        "amount": 99.0
+      },
+      {
+        "description": "Training workshop (per seat)",
+        "quantity": 5.0,
+        "unit_price": 370.67,
+        "amount": 1853.35
+      },
+      {
+        "description": "Network cabling (per metre)",
+        "quantity": 1.0,
+        "unit_price": 4.0,
+        "amount": 4.0
+      },
+      {
+        "description": "Laptop docking station",
+        "quantity": 10.0,
+        "unit_price": 133.0,
+        "amount": 1330.0
+      },
+      {
+        "description": "Training workshop (per seat)",
+        "quantity": 20.0,
+        "unit_price": 473.0,
+        "amount": 9460.0
+      },
+      {
+        "description": "Network cabling (per metre)",
+        "quantity": 3.0,
+        "unit_price": 5.96,
+        "amount": 17.88
+      },
+      {
+        "description": "On-site support visit",
+        "quantity": 1.0,
+        "unit_price": 291.07,
+        "amount": 291.07
+      },
+      {
+        "description": "Cleaning service (hours)",
+        "quantity": 3.0,
+        "unit_price": 41.0,
+        "amount": 123.0
+      },
+      {
+        "description": "Monthly software licence",
+        "quantity": 20.0,
+        "unit_price": 29.2,
+        "amount": 584.0
+      },
+      {
+        "description": "Monthly software licence",
+        "quantity": 2.0,
+        "unit_price": 66.82,
+        "amount": 133.64
+      },
+      {
+        "description": "Laptop docking station",
+        "quantity": 1.0,
+        "unit_price": 138.0,
+        "amount": 138.0
+      },
+      {
+        "description": "On-site support visit",
+        "quantity": 20.0,
+        "unit_price": 205.0,
+        "amount": 4100.0
+      },
+      {
+        "description": "Consulting services (hours)",
+        "quantity": 2.0,
+        "unit_price": 155.46,
+        "amount": 310.92
+      },
+      {
+        "description": "Books and manuals",
+        "quantity": 1.0,
+        "unit_price": 39.05,
+        "amount": 39.05
+      },
+      {
+        "description": "Office chairs",
+        "quantity": 20.0,
+        "unit_price": 156.36,
+        "amount": 3127.2
+      },
+      {
+        "description": "Cleaning service (hours)",
+        "quantity": 1.0,
+        "unit_price": 39.54,
+        "amount": 39.54
+      },
+      {
+        "description": "Training workshop (per seat)",
+        "quantity": 12.0,
+        "unit_price": 312.39,
+        "amount": 3748.68
+      },
+      {
+        "description": "Consulting services (hours)",
+        "quantity": 1.0,
+        "unit_price": 179.87,
+        "amount": 179.87
+      },
+      {
+        "description": "Website maintenance",
+        "quantity": 1.0,
+        "unit_price": 396.11,
+        "amount": 396.11
+      },
+      {
+        "description": "Laptop docking station",
+        "quantity": 1.0,
+        "unit_price": 165.0,
+        "amount": 165.0
+      },
+      {
+        "description": "Monthly software licence",
+        "quantity": 4.0,
+        "unit_price": 72.7,
+        "amount": 290.8
+      },
+      {
+        "description": "Books and manuals",
+        "quantity": 5.0,
+        "unit_price": 35.24,
+        "amount": 176.2
+      },
+      {
+        "description": "Printed brochures (box of 250)",
+        "quantity": 10.0,
+        "unit_price": 100.0,
+        "amount": 1000.0
+      },
+      {
+        "description": "Books and manuals",
+        "quantity": 1.0,
+        "unit_price": 54.11,
+        "amount": 54.11
+      },
+      {
+        "description": "Discount 10%",
+        "quantity": null,
+        "unit_price": null,
+        "amount": -4306.05
+      }
+    ],
+    "traps": [
+      "deposit",
+      "discount",
+      "two tax rates",
+      "multi-page",
+      "other dates"
+    ]
+  },
+  "inv20-us-pdf": {
+    "file": "inv20-us-pdf.pdf",
+    "format": "pdf",
+    "locale": "us",
+    "layout": "classic",
+    "vendor_name": "Copperline Plumbing & Heating",
+    "customer_name": "Cedar Ridge Accounting LLC",
+    "invoice_number": "9568",
+    "invoice_date": "2026-02-24",
+    "due_date": "2026-03-10",
+    "currency": "USD",
+    "subtotal": 818.97,
+    "tax": 67.57,
+    "total": 886.54,
+    "amount_due": 886.54,
+    "line_items": [
+      {
+        "description": "Office chairs",
+        "quantity": 1.0,
+        "unit_price": 227.97,
+        "amount": 227.97
+      },
+      {
+        "description": "Network cabling (per metre)",
+        "quantity": 1.0,
+        "unit_price": 3.64,
+        "amount": 3.64
+      },
+      {
+        "description": "Website maintenance",
+        "quantity": 1.0,
+        "unit_price": 587.36,
+        "amount": 587.36
+      }
+    ],
+    "traps": [
+      "other numbers",
+      "other dates"
+    ]
+  },
+  "inv21-us-scan": {
+    "file": "inv21-us-scan.pdf",
+    "format": "scan",
+    "locale": "us",
+    "layout": "classic",
+    "vendor_name": "Summit Peak Marketing Inc.",
+    "customer_name": "Granite State Logistics",
+    "invoice_number": "INV-5685",
+    "invoice_date": "2026-09-11",
+    "due_date": "2026-09-25",
+    "currency": "USD",
+    "subtotal": 599.14,
+    "tax": 0,
+    "total": 599.14,
+    "amount_due": 599.14,
+    "line_items": [
+      {
+        "description": "Consulting services (hours)",
+        "quantity": 2.0,
+        "unit_price": 110.96,
+        "amount": 221.92
+      },
+      {
+        "description": "Network cabling (per metre)",
+        "quantity": 5.0,
+        "unit_price": 2.02,
+        "amount": 10.1
+      },
+      {
+        "description": "Cleaning service (hours)",
+        "quantity": 8.0,
+        "unit_price": 26.39,
+        "amount": 211.12
+      },
+      {
+        "description": "Consulting services (hours)",
+        "quantity": 1.0,
+        "unit_price": 156.0,
+        "amount": 156.0
+      }
+    ],
+    "traps": [
+      "ambiguous date",
+      "other numbers"
+    ]
+  },
+  "inv22-uk-scan": {
+    "file": "inv22-uk-scan.pdf",
+    "format": "scan",
+    "locale": "uk",
+    "layout": "band",
+    "vendor_name": "Kestrel Print Studio Ltd",
+    "customer_name": "Harrow & Finch Solicitors",
+    "invoice_number": "AL-9919",
+    "invoice_date": "2026-05-09",
+    "due_date": null,
+    "currency": "GBP",
+    "subtotal": 341.57,
+    "tax": 68.31,
+    "total": 409.88,
+    "amount_due": 219.88,
+    "line_items": [
+      {
+        "description": "Network cabling (per metre)",
+        "quantity": 8.0,
+        "unit_price": 2.44,
+        "amount": 19.52
+      },
+      {
+        "description": "Cleaning service (hours)",
+        "quantity": 10.0,
+        "unit_price": 36.0,
+        "amount": 360.0
+      },
+      {
+        "description": "Discount 10%",
+        "quantity": null,
+        "unit_price": null,
+        "amount": -37.95
+      }
+    ],
+    "traps": [
+      "ambiguous date",
+      "deposit",
+      "discount",
+      "other numbers"
+    ]
+  },
+  "inv23-de-scan": {
+    "file": "inv23-de-scan.pdf",
+    "format": "scan",
+    "locale": "de",
+    "layout": "classic",
+    "vendor_name": "Weber Gebäudereinigung KG",
+    "customer_name": "Kessler Logistik AG",
+    "invoice_number": "RE-2026-7638",
+    "invoice_date": "2026-04-11",
+    "due_date": null,
+    "currency": "EUR",
+    "subtotal": 5669.2,
+    "tax": 0,
+    "total": 5669.2,
+    "amount_due": 5669.2,
+    "line_items": [
+      {
+        "description": "Montage und Anschluss (Std.)",
+        "quantity": 8.0,
+        "unit_price": 91.0,
+        "amount": 728.0
+      },
+      {
+        "description": "Beratung (Std.)",
+        "quantity": 10.0,
+        "unit_price": 154.48,
+        "amount": 1544.8
+      },
+      {
+        "description": "Wartungsvertrag (Quartal)",
+        "quantity": 8.0,
+        "unit_price": 400.55,
+        "amount": 3204.4
+      },
+      {
+        "description": "Softwarelizenz (Monat)",
+        "quantity": 4.0,
+        "unit_price": 48.0,
+        "amount": 192.0
+      }
+    ],
+    "traps": [
+      "reverse charge",
+      "other dates"
+    ]
+  },
+  "inv24-fr-scan": {
+    "file": "inv24-fr-scan.pdf",
+    "format": "scan",
+    "locale": "fr",
+    "layout": "band",
+    "vendor_name": "Lumière Événements SAS",
+    "customer_name": "Hôtel des Arts",
+    "invoice_number": "FA-2026-5061",
+    "invoice_date": "2026-09-09",
+    "due_date": "2026-10-09",
+    "currency": "EUR",
+    "subtotal": 4629.14,
+    "tax": 903.26,
+    "total": 5532.4,
+    "amount_due": 5532.4,
+    "line_items": [
+      {
+        "description": "Repas traiteur (par personne)",
+        "quantity": 5.0,
+        "unit_price": 31.13,
+        "amount": 155.65
+      },
+      {
+        "description": "Décoration florale",
+        "quantity": 3.0,
+        "unit_price": 76.0,
+        "amount": 228.0
+      },
+      {
+        "description": "Décoration florale",
+        "quantity": 20.0,
+        "unit_price": 84.46,
+        "amount": 1689.2
+      },
+      {
+        "description": "Location de matériel son",
+        "quantity": 2.0,
+        "unit_price": 387.82,
+        "amount": 775.64
+      },
+      {
+        "description": "Déplacement forfaitaire",
+        "quantity": 20.0,
+        "unit_price": 78.0,
+        "amount": 1560.0
+      },
+      {
+        "description": "Maintenance informatique (mois)",
+        "quantity": 5.0,
+        "unit_price": 147.0,
+        "amount": 735.0
+      },
+      {
+        "description": "Remise 10%",
+        "quantity": null,
+        "unit_price": null,
+        "amount": -514.35
+      }
+    ],
+    "traps": [
+      "ambiguous date",
+      "discount",
+      "two tax rates",
+      "other numbers"
+    ]
+  },
+  "inv25-nl-scan": {
+    "file": "inv25-nl-scan.pdf",
+    "format": "scan",
+    "locale": "nl",
+    "layout": "customer_first",
+    "vendor_name": "Bakker Vertaalbureau",
+    "customer_name": "Studio Jansen",
+    "invoice_number": "202606447",
+    "invoice_date": "2026-09-10",
+    "due_date": "2026-09-24",
+    "currency": "EUR",
+    "subtotal": 2897.94,
+    "tax": 549.53,
+    "total": 3447.47,
+    "amount_due": 3447.47,
+    "line_items": [
+      {
+        "description": "Onderhoudscontract (jaar)",
+        "quantity": 1.0,
+        "unit_price": 479.89,
+        "amount": 479.89
+      },
+      {
+        "description": "Onderhoudscontract (jaar)",
+        "quantity": 3.0,
+        "unit_price": 429.0,
+        "amount": 1287.0
+      },
+      {
+        "description": "Vertaling NL-EN (per woord)",
+        "quantity": 926.0,
+        "unit_price": 0.156,
+        "amount": 144.46
+      },
+      {
+        "description": "Materiaal en onderdelen",
+        "quantity": 1.0,
+        "unit_price": 146.0,
+        "amount": 146.0
+      },
+      {
+        "description": "Vertaling NL-EN (per woord)",
+        "quantity": 2249.0,
+        "unit_price": 0.155,
+        "amount": 348.59
+      },
+      {
+        "description": "Boeken",
+        "quantity": 12.0,
+        "unit_price": 41.0,
+        "amount": 492.0
+      }
+    ],
+    "traps": [
+      "two tax rates",
+      "customer printed bigger",
+      "other numbers"
+    ]
+  },
+  "inv26-us-photo": {
+    "file": "inv26-us-photo.jpg",
+    "format": "photo",
+    "locale": "us",
+    "layout": "band",
+    "vendor_name": "Bluegrass IT Services LLC",
+    "customer_name": "Pinewood Dental Group",
+    "invoice_number": "INV-2638",
+    "invoice_date": "2026-03-22",
+    "due_date": "2026-04-21",
+    "currency": "USD",
+    "subtotal": 6172.48,
+    "tax": 509.23,
+    "total": 6681.71,
+    "amount_due": 3595.71,
+    "line_items": [
+      {
+        "description": "Monthly software licence",
+        "quantity": 20.0,
+        "unit_price": 79.0,
+        "amount": 1580.0
+      },
+      {
+        "description": "Office chairs",
+        "quantity": 8.0,
+        "unit_price": 237.0,
+        "amount": 1896.0
+      },
+      {
+        "description": "Monthly software licence",
+        "quantity": 12.0,
+        "unit_price": 35.54,
+        "amount": 426.48
+      },
+      {
+        "description": "Office chairs",
+        "quantity": 5.0,
+        "unit_price": 143.0,
+        "amount": 715.0
+      },
+      {
+        "description": "On-site support visit",
+        "quantity": 5.0,
+        "unit_price": 311.0,
+        "amount": 1555.0
+      }
+    ],
+    "traps": [
+      "deposit",
+      "other numbers"
+    ]
+  },
+  "inv27-uk-photo": {
+    "file": "inv27-uk-photo.jpg",
+    "format": "photo",
+    "locale": "uk",
+    "layout": "classic",
+    "vendor_name": "Kestrel Print Studio Ltd",
+    "customer_name": "Northgate Veterinary Practice",
+    "invoice_number": "AL-2367",
+    "invoice_date": "2026-06-04",
+    "due_date": "2026-06-18",
+    "currency": "GBP",
+    "subtotal": 5292.67,
+    "tax": 1001.0,
+    "total": 6293.67,
+    "amount_due": 6293.67,
+    "line_items": [
+      {
+        "description": "Cleaning service (hours)",
+        "quantity": 4.0,
+        "unit_price": 40.05,
+        "amount": 160.2
+      },
+      {
+        "description": "On-site support visit",
+        "quantity": 12.0,
+        "unit_price": 190.66,
+        "amount": 2287.92
+      },
+      {
+        "description": "Catering: lunch buffet per person",
+        "quantity": 3.0,
+        "unit_price": 24.25,
+        "amount": 72.75
+      },
+      {
+        "description": "Catering: lunch buffet per person",
+        "quantity": 10.0,
+        "unit_price": 31.08,
+        "amount": 310.8
+      },
+      {
+        "description": "Office chairs",
+        "quantity": 12.0,
+        "unit_price": 203.0,
+        "amount": 2436.0
+      }
+    ],
+    "traps": [
+      "shipping",
+      "two tax rates",
+      "other numbers"
+    ]
+  },
+  "inv28-de-photo": {
+    "file": "inv28-de-photo.jpg",
+    "format": "photo",
+    "locale": "de",
+    "layout": "customer_first",
+    "vendor_name": "Brandt Elektrotechnik GmbH",
+    "customer_name": "Sonnenhof Hotel GmbH",
+    "invoice_number": "RE-2026-5593",
+    "invoice_date": "2026-04-24",
+    "due_date": null,
+    "currency": "EUR",
+    "subtotal": 140.0,
+    "tax": 0,
+    "total": 140.0,
+    "amount_due": 140.0,
+    "line_items": [
+      {
+        "description": "Softwarelizenz (Monat)",
+        "quantity": 1.0,
+        "unit_price": 71.0,
+        "amount": 71.0
+      },
+      {
+        "description": "Softwarelizenz (Monat)",
+        "quantity": 1.0,
+        "unit_price": 69.0,
+        "amount": 69.0
+      }
+    ],
+    "traps": [
+      "reverse charge",
+      "customer printed bigger"
+    ]
+  },
+  "inv29-ch-photo": {
+    "file": "inv29-ch-photo.jpg",
+    "format": "photo",
+    "locale": "ch",
+    "layout": "band",
+    "vendor_name": "Gerber Holzbau GmbH",
+    "customer_name": "Bergmann Immobilien AG",
+    "invoice_number": "2026.8543",
+    "invoice_date": "2026-04-26",
+    "due_date": "2026-05-26",
+    "currency": "CHF",
+    "subtotal": 1454.4,
+    "tax": 117.81,
+    "total": 1572.21,
+    "amount_due": 1572.21,
+    "line_items": [
+      {
+        "description": "Unterhaltsreinigung Büro (Std.)",
+        "quantity": 3.0,
+        "unit_price": 32.0,
+        "amount": 96.0
+      },
+      {
+        "description": "Softwarelizenz (Monat)",
+        "quantity": 20.0,
+        "unit_price": 76.0,
+        "amount": 1520.0
+      },
+      {
+        "description": "Rabatt 10%",
+        "quantity": null,
+        "unit_price": null,
+        "amount": -161.6
+      }
+    ],
+    "traps": [
+      "discount",
+      "other numbers",
+      "other dates"
+    ]
+  },
+  "inv30-fr-photo": {
+    "file": "inv30-fr-photo.jpg",
+    "format": "photo",
+    "locale": "fr",
+    "layout": "classic",
+    "vendor_name": "Atelier Moreau SARL",
+    "customer_name": "Boulangerie Petit",
+    "invoice_number": "FA-2026-1133",
+    "invoice_date": "2026-09-07",
+    "due_date": "2026-10-07",
+    "currency": "EUR",
+    "subtotal": 11308.1,
+    "tax": 2261.62,
+    "total": 13569.72,
+    "amount_due": 13569.72,
+    "line_items": [
+      {
+        "description": "Prestation de conseil (heure)",
+        "quantity": 8.0,
+        "unit_price": 149.0,
+        "amount": 1192.0
+      },
+      {
+        "description": "Prestation de conseil (heure)",
+        "quantity": 5.0,
+        "unit_price": 135.0,
+        "amount": 675.0
+      },
+      {
+        "description": "Location de matériel son",
+        "quantity": 20.0,
+        "unit_price": 334.0,
+        "amount": 6680.0
+      },
+      {
+        "description": "Prestation de conseil (heure)",
+        "quantity": 5.0,
+        "unit_price": 118.22,
+        "amount": 591.1
+      },
+      {
+        "description": "Décoration florale",
+        "quantity": 10.0,
+        "unit_price": 217.0,
+        "amount": 2170.0
+      }
+    ],
+    "traps": [
+      "ambiguous date",
+      "other numbers"
+    ]
+  }
+}

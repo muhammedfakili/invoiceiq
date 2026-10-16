@@ -1,0 +1,46 @@
+{
+  "northwind": {
+    "vendor": "Northwind Office Supply",
+    "customer": "Cedar Ridge Accounting LLC",
+    "invoice_number": "INV-1042",
+    "invoice_date": "2026-03-04",
+    "currency": "USD",
+    "subtotal": 1250.0,
+    "tax": 102.0,
+    "total": 1377.0,
+    "amount_due": 1377.0
+  },
+  "brandt": {
+    "vendor": "Brandt Elektrotechnik GmbH",
+    "customer": "Kessler Logistik AG",
+    "invoice_number": "RE-2026-0318",
+    "invoice_date": "2026-03-12",
+    "currency": "EUR",
+    "subtotal": 1234.5,
+    "tax": 234.56,
+    "total": 1469.06,
+    "amount_due": 1469.06
+  },
+  "harbor": {
+    "vendor": "Harbor Creative Studio",
+    "customer": "Pinewood Dental Group",
+    "invoice_number": "HCS-2026-019",
+    "invoice_date": "2026-05-07",
+    "currency": "USD",
+    "subtotal": 2400.0,
+    "tax": 0.0,
+    "total": 2400.0,
+    "amount_due": 1600.0
+  },
+  "ashford": {
+    "vendor": "Ashford & Lane Ltd",
+    "customer": "Moorgate Cafés Ltd",
+    "invoice_number": "AL-7781",
+    "invoice_date": "2026-03-04",
+    "currency": "GBP",
+    "subtotal": 900.0,
+    "tax": 180.0,
+    "total": 1080.0,
+    "amount_due": 1080.0
+  }
+}
